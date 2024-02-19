@@ -1,0 +1,13 @@
+secrets.toml
+*.ipynb
+test.txt
+online+retail+ii.zip
+model.joblib*.db
+*.ipynb
+*.zip
+__pycache__/
+test.txt
+.DS_Store
+.gitattributes
+model.joblib
+online_retail.db
