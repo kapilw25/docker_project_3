@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+joblib
+pandas
+scikit-learn
+toml
